@@ -107,5 +107,8 @@ O acompanhamento das tarefas é feito no Trello, seguindo o fluxo:
 
 ## 👥 Equipe
 
-- Wallyson (Francisco Wallyson do Nascimento Silva)
-- _adicionar demais integrantes do grupo_
+- Maria dos Remédios Oliveira Santos
+- Francisco das Chagas de Sousa
+- Francisco de Assis Brito Rocha Junior
+- Joceli do Nascimento Rodrigues
+- Salomão Wenderson Medeiros Jucá
