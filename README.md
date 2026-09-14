@@ -108,7 +108,7 @@ O acompanhamento das tarefas é feito no Trello, seguindo o fluxo:
 ## 👥 Equipe
 
 - Maria dos Remédios Oliveira Santos
-- Francisco das Chagas de Sousa
+- (Francisco das Chagas de Sousa)
 - Francisco de Assis Brito Rocha Junior
 - Joceli do Nascimento Rodrigues
 - Salomão Wenderson Medeiros Jucá
